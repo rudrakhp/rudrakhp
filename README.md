@@ -16,10 +16,12 @@ Previously explored:
 🧠 Training and optimizing neural networks for classification and prediction use cases
 
 ### 🧑‍💻 Open Source Contributions
-🚪 Maintainer: [envoyproxy/gateway commits by @rudrakhp](https://github.com/envoyproxy/gateway/commits/main/?author=rudrakhp)  
-🧭 [istio/istio commits by @rudrakhp](https://github.com/istio/istio/commits/master/?author=rudrakhp)  
-📦 [envoyproxy/envoy commits by @rudrakhp](https://github.com/envoyproxy/envoy/commits/main/?author=rudrakhp)  
-🔐 [open-policy-agent/opa commits by @rudrakhp](https://github.com/open-policy-agent/opa/commits/main/?author=rudrakhp)
+- Maintainer and Reviewer for [Envoy Gateway](https://github.com/envoyproxy/gateway) and member of [EnvoyProxy](https://github.com/envoyproxy) org
+- Active contributor and member of [Istio](https://github.com/istio) org
+- [envoyproxy/gateway commits by @rudrakhp](https://github.com/envoyproxy/gateway/commits/main/?author=rudrakhp)  
+- [istio/istio commits by @rudrakhp](https://github.com/istio/istio/commits/master/?author=rudrakhp)  
+- [envoyproxy/envoy commits by @rudrakhp](https://github.com/envoyproxy/envoy/commits/main/?author=rudrakhp)  
+- [open-policy-agent/opa commits by @rudrakhp](https://github.com/open-policy-agent/opa/commits/main/?author=rudrakhp)
 
 ### 🧩 Highlights from Personal Projects
 💳 [KYC‑chain](https://github.com/rudrakhp/KYC-chain)  
