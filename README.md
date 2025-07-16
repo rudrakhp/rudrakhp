@@ -15,15 +15,18 @@ Previously explored:
 🔗 Smart contract design and decentralized app development on blockchain infrastructure  
 🧠 Training and optimizing neural networks for classification and prediction use cases
 
-### 🧑‍💻 Open Source Contributions
-- Maintainer and Reviewer for [Envoy Gateway](https://github.com/envoyproxy/gateway) and member of [EnvoyProxy](https://github.com/envoyproxy) org
-- Active contributor and member of [Istio](https://github.com/istio) org
-- [envoyproxy/gateway commits by @rudrakhp](https://github.com/envoyproxy/gateway/commits/main/?author=rudrakhp)  
-- [istio/istio commits by @rudrakhp](https://github.com/istio/istio/commits/master/?author=rudrakhp)  
-- [envoyproxy/envoy commits by @rudrakhp](https://github.com/envoyproxy/envoy/commits/main/?author=rudrakhp)  
-- [open-policy-agent/opa commits by @rudrakhp](https://github.com/open-policy-agent/opa/commits/main/?author=rudrakhp)
+### Open Source Contributions
 
-### 🧩 Highlights from Personal Projects
+🛠️ Maintainer and Reviewer for [Envoy Gateway](https://github.com/envoyproxy/gateway) and member of the [EnvoyProxy](https://github.com/envoyproxy) org  
+🧑‍💻 Active contributor and member of the [Istio](https://github.com/istio) org  
+
+🚦 [envoyproxy/gateway commits by @rudrakhp](https://github.com/envoyproxy/gateway/commits/main/?author=rudrakhp)  
+🧭 [istio/istio commits by @rudrakhp](https://github.com/istio/istio/commits/master/?author=rudrakhp)  
+🧰 [envoyproxy/envoy commits by @rudrakhp](https://github.com/envoyproxy/envoy/commits/main/?author=rudrakhp)  
+🔐 [open-policy-agent/opa commits by @rudrakhp](https://github.com/open-policy-agent/opa/commits/main/?author=rudrakhp)
+
+
+### Highlights from Personal Projects
 💳 [KYC‑chain](https://github.com/rudrakhp/KYC-chain)  
 ![Stars](https://img.shields.io/github/stars/rudrakhp/KYC-chain?logo=github)  
 Ethereum-based KYC registry using Solidity smart contracts and a Web3 interface to simplify KYC processes.
@@ -32,7 +35,7 @@ Ethereum-based KYC registry using Solidity smart contracts and a Web3 interface 
 ![Stars](https://img.shields.io/github/stars/rudrakhp/malware-detection-blockchain?logo=github)  
 Consensus engine prototype based on neural networks (DBNs) for validating malware on a distributed network that cannot be trusted.
 
-### 📫 Let’s Connect
+### Let’s Connect
 Always up for collaborating on projects. Reach out at:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudrakhp)  
 [![Email](https://img.shields.io/badge/Email-Click_to_email-red?logo=gmail&logoColor=white)](mailto:rudrakhp@gmail.com)
