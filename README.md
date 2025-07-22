@@ -8,22 +8,16 @@
 ## 👋 About Me
 Curious software developer interested in exploring distributed systems and infrastructure at scale!
 
-🌐 Currently exploring the evolving landscape of cloud networking infra, with a focus on L4/L7 traffic engineering.
-
-Previously explored:  
-⚙️ Kubernetes based operators for resource lifecycle management in cloud-native environments  
-🔗 Smart contract design and decentralized app development on blockchain infrastructure  
-🧠 Training and optimizing neural networks for classification and prediction use cases
-
-### Open Source Contributions
+### Open Source
 
 🛠️ Maintainer and Reviewer for [Envoy Gateway](https://github.com/envoyproxy/gateway) and member of the [EnvoyProxy](https://github.com/envoyproxy) org  
 🧑‍💻 Active contributor and member of the [Istio](https://github.com/istio) org  
-
+#### Contributions
 🚦 [envoyproxy/gateway commits by @rudrakhp](https://github.com/envoyproxy/gateway/commits/main/?author=rudrakhp)  
 🧭 [istio/istio commits by @rudrakhp](https://github.com/istio/istio/commits/master/?author=rudrakhp)  
 🧰 [envoyproxy/envoy commits by @rudrakhp](https://github.com/envoyproxy/envoy/commits/main/?author=rudrakhp)  
 🔐 [open-policy-agent/opa commits by @rudrakhp](https://github.com/open-policy-agent/opa/commits/main/?author=rudrakhp)
+🔗 [open-policy-agent/opa-envoy-plugin commits by @rudrakhp](https://github.com/open-policy-agent/opa-envoy-plugin/commits/main/?author=rudrakhp)
 
 
 ### Highlights from Personal Projects
